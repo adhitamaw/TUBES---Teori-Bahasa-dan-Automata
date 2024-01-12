@@ -1,0 +1,5 @@
+input yang bekerja
+int a = 1 ; do { a = a * 2 ; a ++ ; } while ( a <= 10 ) ;
+
+input yang tidak bekerja
+int d = 0 ; do { d = d + 2 ; d ++ ; } while ( d <= 10 ) ;
